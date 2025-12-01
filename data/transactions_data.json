@@ -1,0 +1,22 @@
+[
+  {"source": "A901", "target": "A902", "amount": 15000},
+  {"source": "A902", "target": "A903", "amount": 16000},
+  {"source": "A903", "target": "A901", "amount": 15500},
+  {"source": "A104", "target": "A105", "amount": 3200},
+  {"source": "A105", "target": "A106", "amount": 1800},
+  {"source": "A106", "target": "A107", "amount": 2200},
+  {"source": "A107", "target": "A108", "amount": 1750},
+  {"source": "A108", "target": "A109", "amount": 4100},
+  {"source": "A109", "target": "A110", "amount": 1100},
+  {"source": "A110", "target": "A111", "amount": 800},
+  {"source": "A203", "target": "A204", "amount": 5400},
+  {"source": "A204", "target": "A205", "amount": 6300},
+  {"source": "A205", "target": "A206", "amount": 7200},
+  {"source": "A206", "target": "A207", "amount": 4300},
+  {"source": "A207", "target": "A208", "amount": 2500},
+  {"source": "A208", "target": "A209", "amount": 2700},
+  {"source": "A209", "target": "A210", "amount": 3200},
+  {"source": "A210", "target": "A211", "amount": 3900},
+  {"source": "A901", "target": "A904", "amount": 9500},
+  {"source": "A904", "target": "A905", "amount": 1200}
+]
